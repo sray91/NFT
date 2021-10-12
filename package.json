@@ -1,0 +1,13 @@
+{
+  "name": "avatarcollection",
+  "version": "0.0.1",
+  "description": "Minting an NFT collection",
+  "main": "index.js",
+  "author": "eewatchguy@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@dicebear/avatars": "^4.8.5",
+    "@dicebear/open-peeps": "^4.8.5",
+    "rarepress": "^0.1.6"
+  }
+}
